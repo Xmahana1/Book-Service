@@ -1,10 +1,9 @@
 # Book-Service
 This analysis explores a books database containing authors, publishers, ratings, and reviews to identify key insights about publishing trends, user behavior, and book quality metrics. The project includes both an interactive HTML report and a PDF version for reference.
-# SQL Project — Book Service (TripleTen)
+
 
 **Author:** José Enrique Piñango Bustamante  
 
-This repository contains the final SQL project developed during the TripleTen Data Analyst Bootcamp.
 
 ## Files
 - `index.html`: interactive report exported from the Jupyter Notebook.
